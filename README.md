@@ -89,4 +89,9 @@ Email marketing is one of the most widely used methods for customer engagement, 
 - **Marketing Efficiency**: Reduces waste on ineffective campaigns and improves conversion rates
 - **Scalable Insights**: The same framework can be applied to other outreach channels (e.g., SMS, app notifications)
 
+---
 
+## Tags
+
+`Email Marketing` `Classification` `Customer Engagement` `XGBoost` `Random Forest` `Logistic Regression`  
+`Campaign Optimization` `Hyperparameter Tuning` `Scikit-learn` `Python` `EDA` `Marketing Analytics`
